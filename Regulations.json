@@ -15,7 +15,13 @@
       "ModOptions":[
         {"id":"37","selection":"10"},
         {"id":"39","selection":"11"},
-        {"id":"43","selection":"0"}
+        {"id":"43","selection":"0"},
+        
+        {"id":"130","selection":"10"},
+        {"id":"132","selection":"1"},
+        {"id":"135","selection":"0"},
+        {"id":"133","selection":"0"},
+        {"id":"136","selection":"4"},
       ]
     },
   ]
