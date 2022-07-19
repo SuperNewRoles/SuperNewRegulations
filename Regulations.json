@@ -22,7 +22,29 @@
         {"id":"135","selection":"0"},
         {"id":"133","selection":"0"},
         {"id":"136","selection":"4"},
+        
+        {"id":"3","selection":"2"},
       ]
     },
+    {
+      "title":"みんな大好きトイレ",
+      "MeetingButtonNum":"1",
+      "MeetingButtonCooldown":"30",
+      "VoteTime":"180",
+      "PlayerSpeed":"1.5",
+      "CrewVision":"1",
+      "ImpostorVision":"1.5",
+      "KillCoolTime":"30",
+      "CommonTask":"7",
+      "LongTask":"7",
+      "ShortTask":"7",
+      "ModOptions":[
+        {"id":"656","selection":"10"},
+        {"id":"657","selection":"12"},
+        {"id":"658","selection":"0"},
+        
+        {"id":"3","selection":"13"},
+      ]
+    }
   ]
 }
