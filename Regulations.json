@@ -194,6 +194,75 @@
         {"id":"600502","selection":"1"},
         {"id":"600511","selection":"1"}
       ]
+    },
+    {
+      "title":"ジャッカル村 (JFSK) \nSHR対応_推奨:13~14人",
+      "MeetingButtonNum":"1",
+      "MeetingButtonCooldown":"15",
+      "VoteTime":"210",
+      "PlayerSpeed":"1.25",
+      "CrewVision":"0.5",
+      "ImpostorVision":"1.75",
+      "KillCoolTime":"30",
+      "CommonTask":"2",
+      "LongTask":"3",
+      "ShortTask":"6",
+      "ModOptions":[
+        {"id":"100200","selection":"0"},
+        {"id":"100300","selection":"1"},
+        {"id":"100400","selection":"2"},
+        {"id":"100500","selection":"0"},
+        {"id":"100600","selection":"0"},
+        {"id":"100700","selection":"0"},
+
+        {"id":"100900","selection":"0"},
+        {"id":"101000","selection":"0"},
+        {"id":"101200","selection":"1"},
+        {"id":"101300","selection":"1"},
+
+        {"id":"300000","selection":"10"},
+        {"id":"300001","selection":"0"},
+        {"id":"300002","selection":"11"},
+        {"id":"300003","selection":"1"},
+        {"id":"300004","selection":"0"},
+        {"id":"300005","selection":"1"},
+        {"id":"300006","selection":"1"},
+        {"id":"300007","selection":"0"},
+        {"id":"300008","selection":"11"},
+        {"id":"300009","selection":"0"},
+
+        {"id":"400000","selection":"10"},
+        {"id":"400001","selection":"0"},
+        {"id":"400002","selection":"11"},
+        {"id":"400003","selection":"2"},
+        {"id":"400004","selection":"0"},
+        {"id":"400005","selection":"1"},
+        {"id":"400006","selection":"1"},
+        {"id":"400007","selection":"1"},
+        {"id":"400008","selection":"1"},
+        {"id":"400009","selection":"0"},
+        {"id":"400010","selection":"0"},
+
+        {"id":"402000","selection":"0"},
+        {"id":"402001","selection":"0"},
+        {"id":"402002","selection":"0"},
+        {"id":"402003","selection":"1"},
+        {"id":"402004","selection":"1"},
+        {"id":"402005","selection":"1"},
+        {"id":"402006","selection":"2"},
+        {"id":"402007","selection":"7"},
+        {"id":"402008","selection":"3"},
+        {"id":"402009","selection":"1"},
+        {"id":"402010","selection":"1"},
+
+        {"id":"400700","selection":"10"},
+        {"id":"400701","selection":"0"},
+        {"id":"400702","selection":"2"},
+
+        {"id":"600502","selection":"1"},
+        {"id":"600511","selection":"1"},
+        {"id":"600512","selection":"1"}
+      ]
     }
   ]
 }
