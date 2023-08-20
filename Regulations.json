@@ -59,6 +59,85 @@
         {"id":"600501","selection":"1"},
         {"id":"600601","selection":"1"}
       ]
+    },
+    {
+      "title":"吊り意識向上 [ シェリマ (マッドてるてる) ]\nSHR対応_推奨11人",
+      "MeetingButtonNum":"1",
+      "MeetingButtonCooldown":"15",
+      "VoteTime":"180",
+      "PlayerSpeed":"1.25",
+      "CrewVision":"0.5",
+      "ImpostorVision":"1.75",
+      "KillCoolTime":"30",
+      "CommonTask":"2",
+      "LongTask":"3",
+      "ShortTask":"6",
+      "ModOptions":[
+        {"id":"100200","selection":"2"},
+        {"id":"100300","selection":"0"},
+        {"id":"100400","selection":"2"},
+        {"id":"100500","selection":"0"},
+        {"id":"100600","selection":"0"},
+        {"id":"100700","selection":"0"},
+
+        {"id":"100900","selection":"0"},
+        {"id":"101000","selection":"0"},
+        {"id":"101200","selection":"1"},
+        {"id":"101300","selection":"1"},
+
+        {"id":"101900","selection":"1"},
+        {"id":"102000","selection":"1"},
+        {"id":"102100","selection":"1"},
+        {"id":"102101","selection":"0"},
+        {"id":"102103","selection":"1"},
+        {"id":"102104","selection":"1"},
+        {"id":"201906","selection":"1"},
+        {"id":"201907","selection":"1"},
+        {"id":"201908","selection":"1"},
+        {"id":"201909","selection":"0"},
+        {"id":"201910","selection":"1"},
+
+        {"id":"201100","selection":"10"},
+        {"id":"201101","selection":"0"},
+        {"id":"201102","selection":"16"},
+        {"id":"201103","selection":"8"},
+        {"id":"201104","selection":"1"},
+
+        {"id":"201900","selection":"10"},
+        {"id":"201901","selection":"0"},
+        {"id":"201902","selection":"0"},
+        {"id":"201903","selection":"0"},
+        {"id":"201904","selection":"3"},
+        {"id":"201905","selection":"0"},
+
+        {"id":"400000","selection":"10"},
+        {"id":"400001","selection":"0"},
+        {"id":"400002","selection":"12"},
+        {"id":"400003","selection":"2"},
+        {"id":"400004","selection":"0"},
+        {"id":"400005","selection":"1"},
+        {"id":"400006","selection":"1"},
+        {"id":"400007","selection":"1"},
+        {"id":"400008","selection":"1"},
+        {"id":"400009","selection":"0"},
+        {"id":"400010","selection":"0"},
+
+        {"id":"401200","selection":"10"},
+        {"id":"401201","selection":"0"},
+        {"id":"401202","selection":"1"},
+        {"id":"401203","selection":"1"},
+        {"id":"401204","selection":"1"},
+        {"id":"401205","selection":"2"},
+        {"id":"401206","selection":"7"},
+        {"id":"401207","selection":"3"},
+        {"id":"401208","selection":"1"},
+        {"id":"401209","selection":"1"},
+        {"id":"401210","selection":"1"},
+        {"id":"401211","selection":"1"},
+
+        {"id":"600501","selection":"1"},
+        {"id":"600601","selection":"1"}
+      ]
     }
   ]
 }
