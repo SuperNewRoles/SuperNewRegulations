@@ -2,8 +2,10 @@
   "regulations" : [
     {
       "title":"テンプレート", // コピペした場合, コメント文は削除してください
+      "NumImpostors":"2", // インポスター数
       "MeetingButtonNum":"1",
       "MeetingButtonCooldown":"15",
+      "DiscussionTime":"0",
       "VoteTime":"180",
       "PlayerSpeed":"1.25",
       "CrewVision":"0.5",
@@ -12,6 +14,9 @@
       "CommonTask":"2",
       "LongTask":"3",
       "ShortTask":"6",
+      "ConfirmImpostor":"false", // 追放を確認 : [ ]
+      "AnonymousVotes":"true", // 匿名投票 : [x]
+      "VisualTasks":"false", // 視認タスク : [ ]
       "ModOptions":[
         {"id":"100200","selection":"0"}, // インポスター役職人数 : 0 // 人数設定を忘れないようにして下さい
         {"id":"100300","selection":"0"}, // 第三陣営役職人数 : 0
@@ -38,8 +43,10 @@
 
     {
       "title":"シェリマ村 (シンプル) \nSHR対応_推奨11人",
+      "NumImpostors":"2",
       "MeetingButtonNum":"1",
       "MeetingButtonCooldown":"15",
+      "DiscussionTime":"0",
       "VoteTime":"180",
       "PlayerSpeed":"1.25",
       "CrewVision":"0.5",
@@ -48,6 +55,9 @@
       "CommonTask":"2",
       "LongTask":"3",
       "ShortTask":"6",
+      "VisualTasks":"false",
+      "ConfirmImpostor":"false",
+      "AnonymousVotes":"true",
       "ModOptions":[
         {"id":"100200","selection":"0"}, // インポスター役職人数 : 0
         {"id":"100300","selection":"0"}, // 第三陣営役職人数 : 0
@@ -103,8 +113,10 @@
     },
     {
       "title":"シェリマ村 (吊り意識向上_マッドてるてる)\nSHR対応_推奨11人",
+      "NumImpostors":"2",
       "MeetingButtonNum":"1",
       "MeetingButtonCooldown":"15",
+      "DiscussionTime":"0",
       "VoteTime":"180",
       "PlayerSpeed":"1.25",
       "CrewVision":"0.5",
@@ -113,6 +125,9 @@
       "CommonTask":"2",
       "LongTask":"3",
       "ShortTask":"6",
+      "VisualTasks":"false",
+      "ConfirmImpostor":"false",
+      "AnonymousVotes":"true",
       "ModOptions":[
         {"id":"100200","selection":"0"}, // インポスター役職人数 : 0
         {"id":"100300","selection":"0"}, // 第三陣営役職人数 : 0
@@ -187,8 +202,10 @@
     },
     {
       "title":"シェリマ村 (マッドロールランダム)\nSHR対応_推奨11人",
+      "NumImpostors":"2",
       "MeetingButtonNum":"1",
       "MeetingButtonCooldown":"15",
+      "DiscussionTime":"0",
       "VoteTime":"180",
       "PlayerSpeed":"1.25",
       "CrewVision":"0.5",
@@ -197,6 +214,9 @@
       "CommonTask":"2",
       "LongTask":"3",
       "ShortTask":"6",
+      "VisualTasks":"false",
+      "ConfirmImpostor":"false",
+      "AnonymousVotes":"true",
       "ModOptions":[
         {"id":"100200","selection":"0"}, // インポスター役職人数 : 0
         {"id":"100300","selection":"0"}, // 第三陣営役職人数 : 0
@@ -322,8 +342,10 @@
     },
     {
       "title":"ジャッカル村 (シンプル) \nSHR対応_推奨:12人",
+      "NumImpostors":"2",
       "MeetingButtonNum":"1",
       "MeetingButtonCooldown":"15",
+      "DiscussionTime":"0",
       "VoteTime":"210",
       "PlayerSpeed":"1.25",
       "CrewVision":"0.5",
@@ -332,6 +354,9 @@
       "CommonTask":"2",
       "LongTask":"3",
       "ShortTask":"6",
+      "VisualTasks":"false",
+      "ConfirmImpostor":"false",
+      "AnonymousVotes":"true",
       "ModOptions":[
         {"id":"100200","selection":"0"}, // インポスター役職人数 : 0
         {"id":"100300","selection":"1"}, // 第三陣営役職人数 : 1
@@ -385,8 +410,10 @@
     },
     {
       "title":"ジャッカル村 (JFSK) \nSHR対応_推奨:13~14人",
+      "NumImpostors":"2",
       "MeetingButtonNum":"1",
       "MeetingButtonCooldown":"15",
+      "DiscussionTime":"0",
       "VoteTime":"210",
       "PlayerSpeed":"1.25",
       "CrewVision":"0.5",
@@ -395,6 +422,9 @@
       "CommonTask":"2",
       "LongTask":"3",
       "ShortTask":"6",
+      "VisualTasks":"false",
+      "ConfirmImpostor":"false",
+      "AnonymousVotes":"true",
       "ModOptions":[
         {"id":"100200","selection":"0"}, // インポスター役職人数 : 0
         {"id":"100300","selection":"1"}, // 第三陣営役職人数 : 1
@@ -461,8 +491,10 @@
     },
     {
       "title":"ジャッカル村 (サイドキック) \n推奨:14~15人",
+      "NumImpostors":"2",
       "MeetingButtonNum":"1",
       "MeetingButtonCooldown":"15",
+      "DiscussionTime":"0",
       "VoteTime":"210",
       "PlayerSpeed":"1.25",
       "CrewVision":"0.5",
@@ -471,6 +503,9 @@
       "CommonTask":"2",
       "LongTask":"3",
       "ShortTask":"6",
+      "VisualTasks":"false",
+      "ConfirmImpostor":"false",
+      "AnonymousVotes":"true",
       "ModOptions":[
         {"id":"100200","selection":"0"}, // インポスター役職人数 : 0
         {"id":"100300","selection":"1"}, // 第三陣営役職人数 : 1
