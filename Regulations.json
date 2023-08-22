@@ -71,6 +71,111 @@
       ]
     },
     {
+      "title":"シェリマ村 (黒猫 + イビルハッカー) \n推奨11人",
+      "NumImpostors":"2", 
+      "MeetingButtonNum":"1",
+      "MeetingButtonCooldown":"20",
+      "DiscussionTime":"0",
+      "VoteTime":"180", 
+      "PlayerSpeed":"1.25",
+      "CrewVision":"0.5",
+      "ImpostorVision":"1.5",
+      "KillCoolTime":"30",
+      "CommonTask":"2",
+      "LongTask":"3",
+      "ShortTask":"5",
+      "ConfirmImpostor":"false",
+      "AnonymousVotes":"true",
+      "VisualTasks":"false",
+      "ModOptions":[
+        {"id":"100200","selection":"5"},
+        {"id":"100300","selection":"5"},
+        {"id":"100400","selection":"5"},
+        {"id":"100500","selection":"5"},
+        {"id":"100600","selection":"5"},
+        {"id":"100700","selection":"5"},
+
+        {"id":"100900","selection":"1"},
+        {"id":"101000","selection":"0"},
+        {"id":"101200","selection":"0"},
+        {"id":"101300","selection":"1"},
+
+        {"id":"101900","selection":"1"},
+        {"id":"102000","selection":"1"},
+
+        {"id":"102100","selection":"0"},
+
+        {"id":"102200","selection":"1"},
+        {"id":"102201","selection":"1"},
+        {"id":"102202","selection":"3"},
+        {"id":"102203","selection":"1"},
+        {"id":"102204","selection":"10"},
+        {"id":"102205","selection":"1"},
+        {"id":"102206","selection":"10"},
+
+        {"id":"102300","selection":"1"},
+        {"id":"102303","selection":"60"},
+
+        {"id":"102400","selection":"0"},
+
+        {"id":"102500","selection":"1"},
+        {"id":"102501","selection":"2"},
+
+        {"id":"102800","selection":"1"},
+
+        {"id":"103200","selection":"1"},
+        {"id":"103201","selection":"1"},
+        {"id":"103205","selection":"1"},
+        {"id":"103208","selection":"1"},
+
+        {"id":"103500","selection":"1"},
+
+        {"id":"103600","selection":"1"},
+        {"id":"103601","selection":"1"},
+
+        {"id":"104200","selection":"0"}, 
+
+        {"id":"200300","selection":"10"}, 
+        {"id":"200301","selection":"0"}, 
+        {"id":"200302","selection":"1"}, 
+        {"id":"200304","selection":"0"}, 
+
+        {"id":"400000","selection":"10"}, 
+        {"id":"400001","selection":"0"}, 
+        {"id":"400002","selection":"11"}, 
+        {"id":"400003","selection":"0"}, 
+        {"id":"400004","selection":"0"}, 
+        {"id":"400005","selection":"1"}, 
+        {"id":"400006","selection":"1"}, 
+        {"id":"400007","selection":"1"}, 
+        {"id":"400008","selection":"1"}, 
+        {"id":"400009","selection":"0"}, 
+        {"id":"400010","selection":"0"}, 
+
+        {"id":"401000","selection":"9"}, 
+        {"id":"401001","selection":"0"}, 
+        {"id":"401002","selection":"1"}, 
+        {"id":"401003","selection":"1"}, 
+        {"id":"401004","selection":"1"}, 
+        {"id":"401005","selection":"0"}, 
+        {"id":"401006","selection":"1"}, 
+        {"id":"401007","selection":"0"}, 
+        {"id":"401008","selection":"1"}, 
+        {"id":"401009","selection":"4"}, 
+        {"id":"401010","selection":"1"}, 
+        {"id":"401011","selection":"1"}, 
+
+        {"id":"500002","selection":"1"}, 
+
+        {"id":"600500","selection":"1"}, 
+        {"id":"600501","selection":"1"}, 
+        {"id":"600600","selection":"1"}, 
+        {"id":"600602","selection":"1"}, 
+        {"id":"600604","selection":"1"}, 
+        {"id":"600606","selection":"1"}
+      ]
+    },
+    {
       "title":"シェリマ村 (吊り意識向上_マッドてるてる)\nSHR対応_推奨11人",
       "NumImpostors":"2",
       "MeetingButtonNum":"1",
