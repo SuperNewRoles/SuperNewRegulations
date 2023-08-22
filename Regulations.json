@@ -634,6 +634,78 @@
         {"id":"600512","selection":"1"},
         {"id":"600513","selection":"1"}
       ]
+    },
+    {
+      "title":"ハッチャンコラボ役村\n推奨:12人",
+      "NumImpostors":"2",
+      "MeetingButtonNum":"1",
+      "MeetingButtonCooldown":"15",
+      "DiscussionTime":"0",
+      "VoteTime":"180",
+      "PlayerSpeed":"1.25",
+      "CrewVision":"0.5",
+      "ImpostorVision":"1.75",
+      "KillCoolTime":"30",
+      "CommonTask":"2",
+      "LongTask":"3",
+      "ShortTask":"5",
+      "ConfirmImpostor":"false",
+      "AnonymousVotes":"true",
+      "VisualTasks":"false",
+      "ModOptions":[
+        {"id":"100200","selection":"2"},
+        {"id":"100300","selection":"1"},
+        {"id":"100400","selection":"2"},
+        {"id":"100500","selection":"0"},
+        {"id":"100600","selection":"0"},
+        {"id":"100700","selection":"0"},
+
+        {"id":"100900","selection":"1"},
+        {"id":"101000","selection":"0"},
+        {"id":"101200","selection":"0"},
+        {"id":"101300","selection":"1"},
+
+        {"id":"200100","selection":"10"},
+        {"id":"200101","selection":"0"},
+        {"id":"200102","selection":"6"},
+        {"id":"200103","selection":"10"},
+        {"id":"200104","selection":"0"},
+        {"id":"200105","selection":"1"},
+
+        {"id":"200600","selection":"10"},
+        {"id":"200601","selection":"0"},
+        {"id":"200602","selection":"11"},
+        {"id":"200603","selection":"3"},
+        {"id":"200604","selection":"0"},
+        {"id":"200605","selection":"1"},
+
+        {"id":"300100","selection":"10"},
+        {"id":"300101","selection":"0"},
+        {"id":"300102","selection":"10"},
+        {"id":"300103","selection":"5"},
+        {"id":"300104","selection":"11"},
+        {"id":"300105","selection":"1"},
+        {"id":"300106","selection":"1"},
+        {"id":"300107","selection":"0"},
+        {"id":"300108","selection":"1"},
+        {"id":"300109","selection":"0"},
+        {"id":"300110","selection":"11"},
+        {"id":"300111","selection":"0"},
+        {"id":"300112","selection":"0"},
+        {"id":"300113","selection":"0"},
+
+        {"id":"400500","selection":"10"},
+        {"id":"400501","selection":"0"},
+        {"id":"400502","selection":"11"},
+        {"id":"400503","selection":"3"},
+
+        {"id":"400600","selection":"10"},
+        {"id":"400601","selection":"0"},
+        {"id":"400602","selection":"12"},
+
+        {"id":"600502","selection":"1"},
+        {"id":"600511","selection":"1"}
+      ]
     }
   ]
 }
